@@ -3,7 +3,6 @@ This is my GitHub website, where you can select marvel characters and compete in
 I am a poop.
 
 index.html
-<!DOCTYPE html>
 <html>
  <body>
     <h1>Doctor Strange</h1>
